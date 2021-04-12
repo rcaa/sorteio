@@ -1,0 +1,1 @@
+Script para sortear qual aluno deve apresentar o trabalho
